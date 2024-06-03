@@ -1,4 +1,5 @@
-# Roboter
+# Roboterauto
+Ein einfacher Roboter, welcher einer Linie nachfahren kann.
 <img src="https://raw.githubusercontent.com/nerdprojects/line-robot/main/robot.jpg">
 
 ## Anleitung
