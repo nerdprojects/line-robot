@@ -3,7 +3,7 @@ Ein einfacher Roboter, welcher einer Linie nachfahren kann.
 <img src="https://raw.githubusercontent.com/nerdprojects/line-robot/main/robot.jpg">
 
 ## Anleitung
-Eine kurze Anleitung zum Roboter: [manual.pdf](https://raw.githubusercontent.com/nerdprojects/line-robot/main/manual.pdf)
+Eine kurze Anleitung zum Roboter findet ihr unter [manual.pdf](https://raw.githubusercontent.com/nerdprojects/line-robot/main/manual.pdf).
 
 ## Software
 Den Programmcode findet ihr unter [software/software.ino](https://github.com/nerdprojects/line-robot/blob/main/software/software.ino).
